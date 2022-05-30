@@ -1,12 +1,9 @@
-![count](https://github-readme-stats.vercel.app/api?username=desnlee&count_private=true&include_all_commits=true&line_height=27&show_icons=true&border_radius=10&theme=vue-dark)
+![count](https://github-readme-stats.vercel.app/api?username=desnlee&count_private=true&include_all_commits=true&line_height=26&show_icons=true&border_radius=10&theme=vue-dark)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=desnlee&theme=vue-dark&langs_count=3&hide=css,html,scss&border_radius=10)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Desn-UI&border_radius=10&theme=vue-dark)](https://github.com/desnlee/Desn-UI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Telegram-Forward-Bot&border_radius=10&theme=vue-dark)](https://github.com/desnlee/Telegram-Forward-Bot)
-
-<div align="center">
+<!-- <div align="center">
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+</div> -->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
@@ -41,10 +38,10 @@
 <a href = 'https://www.github.com/DesnLee'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
-<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
+</a> -->
 <br>
 
 
@@ -58,4 +55,4 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+<!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
