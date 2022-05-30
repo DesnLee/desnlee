@@ -36,12 +36,14 @@
 <br>
   
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= 'https://github.com/DesnLee?tab=repositories&q=&type=&language=javascript&sort=' > <img src ='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'> </a>
-<a href= 'https://github.com/DesnLee?tab=repositories&q=&type=&language=typescript&sort=' > <img src ='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> </a>
-<a href= 'https://github.com/DesnLee?tab=repositories&q=&type=&language=vuejs&sort=' > <img src ='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'> </a>
-<a href= 'https://github.com/DesnLee?tab=repositories&q=&type=&language=reactjs&sort=' > <img src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> </a>
-<a href= 'https://github.com/DesnLee?tab=repositories&q=&type=&language=nodejs&sort=' > <img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'> </a>
-<a href= ''> <img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'> </a>
+<a href= '#' > <img src ='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'> </a>
+<a href= '#' > <img src ='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> </a>
+<a href= '#' > <img src ='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'> </a>
+<a href= '#' > <img src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> </a>
+<a href= '#' > <img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'> </a>
+<a href= '#'> <img src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'> </a>
+<a href= '#'> <img src ='https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue'> </a>
+  
 <br>
   
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
