@@ -29,9 +29,8 @@
 <br>
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.github.com/DesnLee'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <a href = 'https://t.me/DesnLeeBot'> <img align= 'center' src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a> 
-<a href = 'mail:jiakun.ui@gmail.com'> <img align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = 'mailto:jiakun.ui@gmail.com'> <img align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br>
   
@@ -47,6 +46,4 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
-
-<br>
 <!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
