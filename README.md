@@ -6,3 +6,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Desn-UI&border_radius=10&theme=vue-dark)](https://github.com/desnlee/Desn-UI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Telegram-Forward-Bot&border_radius=10&theme=vue-dark)](https://github.com/desnlee/Telegram-Forward-Bot)
+
+<a href="https://github.com/desnlee/Desn-UI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Desn-UI&border_radius=10&theme=vue-dark" />
+</a>
+<a href="https://github.com/desnlee/Telegram-Forward-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desnlee&repo=Telegram-Forward-Bot&border_radius=10&theme=vue-dark" />
+</a>
