@@ -1,5 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=desnlee.desnlee&left_text=MyPageVisitors)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi~%20I'm DesnLee!&fontSize=90)
 
 ![count](https://github-readme-stats.vercel.app/api?username=desnlee&theme=blue-green)
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=desnlee&theme=blue-green)
