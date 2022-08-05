@@ -18,7 +18,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on https://www.desnlee.com
+- 🔭 I’m currently working on https://github.com/sub-store-org/Sub-Store-Front-End
 
 - 🌱 I’m currently learning Golang 
 
