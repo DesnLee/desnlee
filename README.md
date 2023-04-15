@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on Projects 
 
-- 💬 Talk to me about JavaScript,  TypeScript, Telegram Bot, Open Source and so on 
+- 💬 Talk to me about TypeScript, Telegram Bot, Open Source and so on 
 
 <br>
   
