@@ -38,7 +38,7 @@
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'> </a>
-<a href= '#-skills--' > <img src ='[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/go-00BFFF?style=for-the-badge&logo=go&logoColor=white)'> </a>
+<a href= '#-skills--' > <img src ='https://img.shields.io/badge/Go-00BFFF?style=for-the-badge&logo=go&logoColor=white'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'> </a>
