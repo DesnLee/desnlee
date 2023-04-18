@@ -24,8 +24,6 @@
 
 - 👯 I’m looking to collaborate on Projects 
 
-- 💬 Talk to me about TypeScript, Telegram Bot, Open Source and so on 
-
 <br>
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
