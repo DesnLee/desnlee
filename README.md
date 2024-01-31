@@ -1,4 +1,4 @@
-[![Banners](https://svg-banners.vercel.app/api?type=glitch&text1=DesnLee🎉&width=820&height=200)](https://github.com/Akshay090/svg-banners)
+[![Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Don‘t%20Repeat%20Youself🎉&width=820&height=200)](https://github.com/Akshay090/svg-banners)
 
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=desnlee&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desnlee&layout=compact&theme=buefy&hide_border=true" alt="" />|
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
