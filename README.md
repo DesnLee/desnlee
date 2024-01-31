@@ -3,11 +3,6 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=desnlee&show_icons=true&theme=buefy&hide_border=true" alt="" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desnlee&layout=compact&theme=buefy&hide_border=true" alt="" />|
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DesnLee.DesnLee)
-
 </p>
 <div size='24px'> Hi! My name is Jacob Lee. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
