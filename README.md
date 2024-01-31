@@ -23,9 +23,3 @@
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/Go-00BFFF?style=for-the-badge&logo=go&logoColor=white'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> </a>
 <a href= '#-skills--' > <img src ='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D'> </a>
-
-
-<br>
-
-
-<!-- <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer> -->
